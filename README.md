@@ -1,4 +1,4 @@
-# RECODA: Autonomous Data Quality and Repair Engine
+# RECODA: Reconstructing and Correcting Data
 
 RECODA is a web application for inspecting tabular datasets (CSV, XLS, XLSX), detecting data-quality problems, applying a small set of provably safe repairs automatically, and routing every other issue to a human reviewer. Each record is classified as either GREEN (usable) or RED (requires human action). Every change is recorded in an audit trail, and changes can be rolled back.
 
