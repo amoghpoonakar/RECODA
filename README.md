@@ -477,7 +477,3 @@ The suite includes an end-to-end endpoint test that covers the full lifecycle (u
 - **AI summary** is a convenience only. It does not influence any classification or repair decision.
 
 ---
-
-## License
-
-This project was developed for a hackathon organized by the INNOVEDGE Innovation and Entrepreneurship Development Club. Add the license that applies to your project before publishing.
